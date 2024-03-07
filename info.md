@@ -1,4 +1,4 @@
-# Hallo
+# Linux Administrative Guide
 ## Linux-Dateirechte
 
 In Linux hat jede Datei und jedes Verzeichnis eine Reihe von Berechtigungen, die bestimmen, wer die Datei oder das Verzeichnis lesen, schreiben oder ausführen kann. Diese Berechtigungen sind in drei Gruppen unterteilt:
